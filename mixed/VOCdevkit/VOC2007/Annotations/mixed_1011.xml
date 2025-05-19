@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>E:\spore\´ó°ßË¿ºÚËëÐâ²¡»ìºÏ\Annotations</folder>
+  <filename>mixed_1011.jpg</filename>
+  <size>
+    <width>1920</width>
+    <height>1200</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>dbb_spore</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>765.9043121337891</xmin>
+      <ymin>199.46759033203125</ymin>
+      <xmax>870.2437133789062</xmax>
+      <ymax>304.218017578125</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>dbb_spore</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1107.0568542480469</xmin>
+      <ymin>1092.6047973632812</ymin>
+      <xmax>1256.4108581542969</xmax>
+      <ymax>1131.6524047851562</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>xb_spore</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1596.7430419921875</xmin>
+      <ymin>436.16455078125</ymin>
+      <xmax>1644.2449951171875</xmax>
+      <ymax>481.5692138671875</ymax>
+    </bndbox>
+  </object>
+</annotation>
