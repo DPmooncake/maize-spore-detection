@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>E:\spore\´ó°ßË¿ºÚËëÐâ²¡»ìºÏ\Annotations</folder>
+  <filename>mixed_1619.jpg</filename>
+  <size>
+    <width>1920</width>
+    <height>1200</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>xb_spore</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1050.0130004882812</xmin>
+      <ymin>830.4825439453125</ymin>
+      <xmax>1095.11572265625</xmax>
+      <ymax>875.08740234375</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>dbb_spore</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>204.90179443359375</xmin>
+      <ymin>72.28884887695312</ymin>
+      <xmax>267.6208190917969</xmax>
+      <ymax>230.46121215820312</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>shs_spore</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1326.3850708007812</xmin>
+      <ymin>940.0457153320312</ymin>
+      <xmax>1346.7654418945312</xmax>
+      <ymax>959.5508422851562</ymax>
+    </bndbox>
+  </object>
+</annotation>
